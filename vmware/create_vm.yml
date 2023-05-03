@@ -1,2 +1,3 @@
 ---
-  - name: create a Vm 
+  - name: create a Vm
+    hosts: all
